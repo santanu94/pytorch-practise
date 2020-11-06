@@ -8,4 +8,5 @@ content image and generated image.
 
 A key finding from this paper is that a network can represent the style information and content information in different layers.
 
-<a href="https://arxiv.org/pdf/1508.06576.pdf">Link</a> to the original paper.
+<a href="https://arxiv.org/pdf/1508.06576.pdf">Link</a> to the original paper.<br>
+Images source : <a href="https://unsplash.com/">https://unsplash.com/</a> which allows free commercial and non-commercial usage (except selling) of images.
